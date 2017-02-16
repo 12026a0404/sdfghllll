@@ -6,7 +6,7 @@ import os
 import cv2
 import numpy as np
 src_path="C:\Users\harindra sai tej\PycharmProjects\untitled"
-img_path="C:\Users\harindra sai tej\PycharmProjects\untitled"
+img_path="C:\Users\harindra sai tej\PycharmProjects\untitled\A-wise-man-can-learn"
 
 
 def get_string(img_path);
