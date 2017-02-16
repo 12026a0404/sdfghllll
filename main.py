@@ -9,7 +9,7 @@ src_path="C:\Users\harindra sai tej\PycharmProjects\untitled"
 img_path="C:\Users\harindra sai tej\PycharmProjects\untitled\A-wise-man-can-learn"
 
 
-def get_string(img_path);
+def get_string(img_path):
 img=cv2.imread(img_path)
 img=cv2.cvtColor(img, cv2,COLOR_BGR2GRAY)
 kernel=np.ones((1,1), np.uint8)
