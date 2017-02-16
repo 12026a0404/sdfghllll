@@ -1,5 +1,4 @@
 import urllib
-
 from PIL import image
 import pytesseract
 from resizeimage import resizeimage
